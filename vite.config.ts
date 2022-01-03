@@ -8,7 +8,6 @@ export default defineConfig({
     react(),
     Pages({
       dirs: "src/pages",
-      nuxtStyle: true,
     }),
   ],
 });
