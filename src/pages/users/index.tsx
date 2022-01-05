@@ -1,6 +1,7 @@
-function UserIndex() {
-    return <div>user index</div>;
-  }
-  
-  export default UserIndex;
-  
+export default function UserIndex () {
+    return (
+        <div>
+            User Index
+        </div>
+    )
+}
